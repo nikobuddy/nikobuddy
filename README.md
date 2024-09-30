@@ -3,7 +3,7 @@
 👀 I'm omkar full stack app and web developer and fellow engineering student building my version of digital world one step at a time . All the projects I develop are build from complete scratch from planning and designing all the way to solving real life problems
 - I’m looking forward to collaborate on projects based on app development
       
-<img src="https://img.shields.io/github/followers/omkar273?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://img.shields.io/github/followers/nikobuddy?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -54,14 +54,14 @@
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=omkar273)
 
 
-Check for a detailed stats here :point_right: [Omkar273](https://omkar273.io/omkar273)
+Check for a detailed stats here :point_right: [Omkar273](https://nikobuddy.io/omkar273)
 
 ---
 
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [omkar273](https://github.com/omkar273)
+:star: From [omkar273](https://github.com/nikobuddy)
 
 <a href="https://github.com/omkar273">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar273&theme=radical&hide=glsl,python" />
@@ -72,4 +72,4 @@ Check for a detailed stats here :point_right: [Omkar273](https://omkar273.io/omk
 <img src="https://github-readme-stats.vercel.app/api?username=omkar273&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 
-⭐️ From [Omkar](https://github.com/Omkar273)
+⭐️ From [Omkar](https://github.com/nikobuddy)
