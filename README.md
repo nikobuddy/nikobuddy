@@ -1,13 +1,12 @@
-- # Hi, I’m Nikobuddy
+# Hi, I’m Nikobuddy
 
-👀 I'm omkar full stack app and web developer and fellow engineering student building my version of digital world one step at a time . All the projects I develop are build from complete scratch from planning and designing all the way to solving real life problems
-- I’m looking forward to collaborate on projects based on app development
-      
-<img src="https://img.shields.io/github/followers/nikobuddy?label=Follow" style=" float:left, margin-right:10px" />
+👀 I'm Nikobuddy, a full stack app and web developer and fellow engineering student building my version of the digital world one step at a time. All the projects I develop are built from scratch, from planning and designing all the way to solving real-life problems.
 
+- I’m looking forward to collaborating on projects based on app development.
+
+<img src="https://img.shields.io/github/followers/nikobuddy?label=Follow" style="float:left, margin-right:10px" />
 
 ---
-
 
 ### Tech & Tools Preference
 
@@ -30,46 +29,46 @@
 <img src ="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 
-
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img  src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-
-
----
-- High Rating in Platforms like
-<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-
----
-##  Let's connect :speech_balloon:
-- linkedIn : https://www.linkedin.com/in/omkar-sonawane-23b094230/
-- email: omkarsonawane622@gmail.com
-- Twitter  : https://twitter.com/Omkar1409
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar273&show_icons=true&hide_border=true)
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=omkar273)
-
-
-Check for a detailed stats here :point_right: [Omkar273](https://nikobuddy.io/omkar273)
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 
 ---
 
+- High Rating in Platforms like:
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+
+---
+
+## Let's connect :speech_balloon:
+
+- LinkedIn: [Nikobuddy](https://www.linkedin.com/in/nslokhande/)
+- Email: nisargalokhande@gmail.com
+- Twitter: [@Nikobuddy](https://x.com/lokhandenisarga?lang=en)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikobuddy&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nikobuddy)
+
+Check for detailed stats here :point_right: [Nikobuddy](https://nikobuddy.io/omkar273)
+
+---
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [omkar273](https://github.com/nikobuddy)
+:star: From [Nikobuddy](https://github.com/nikobuddy)
 
-<a href="https://github.com/omkar273">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar273&theme=radical&hide=glsl,python" />
+<a href="https://github.com/nikobuddy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikobuddy&theme=radical&hide=glsl,python" />
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=nikobuddy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nikobuddy's GitHub Stats" />
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=omkar273&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-
-⭐️ From [Omkar](https://github.com/nikobuddy)
+⭐️ From [Nikobuddy](https://github.com/nikobuddy)
