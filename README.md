@@ -1,5 +1,13 @@
 # Hi, I’m Nikobuddy
 
+<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Man-Jain/count.svg" />
+</p>
+
+
+
 👀 I'm Nikobuddy, a full stack app and web developer and fellow engineering student building my version of the digital world one step at a time. All the projects I develop are built from scratch, from planning and designing all the way to solving real-life problems.
 
 - I’m looking forward to collaborating on projects based on app development.
