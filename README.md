@@ -65,7 +65,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikobuddy&show_icons=true&hide_border=true)
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nikobuddy)
 
-Check for detailed stats here :point_right: [Nikobuddy](https://nikobuddy.io/omkar273)
+Check for detailed stats here :point_right: [Nikobuddy](https://nikobuddy.io/nikobuddy)
 
 ---
 
