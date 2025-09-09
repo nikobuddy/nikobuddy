@@ -1,4 +1,4 @@
-# Hi, I’m Nikobuddy
+# Hi, I’m Nisarga Lokhande
 
 <br/>
 <p align="center"> 
