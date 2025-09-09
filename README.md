@@ -8,7 +8,7 @@
 
 
 
-👀 I'm Nikobuddy, a full stack app and web developer and fellow engineering student building my version of the digital world one step at a time. All the projects I develop are built from scratch, from planning and designing all the way to solving real-life problems.
+👀 I'm Nisarga Lokhande, a full stack app and web developer and fellow engineering student building my version of the digital world one step at a time. All the projects I develop are built from scratch, from planning and designing all the way to solving real-life problems.
 
 - I’m looking forward to collaborating on projects based on app development.
 
