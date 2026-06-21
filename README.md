@@ -1,12 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,100:2d1b69&height=230&section=header&text=Nisarga%20Lokhande&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20App%20Craftsman%20%E2%80%A2%20Engineering%20Student&descAlignY=64&descSize=18&descColor=d8b4fe&stroke=ffffff&strokeWidth=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,100:2d1b69&height=240&section=header&text=Nisarga%20Lokhande&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Flutter%20Dev%20%E2%80%A2%20SIH%202025%20Winner%20%F0%9F%A5%87&descAlignY=64&descSize=17&descColor=d8b4fe"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=Building+digital+worlds+from+scratch+%F0%9F%8C%8D;Full+Stack+%E2%80%A2+App+%E2%80%A2+Web+%E2%80%A2+Cloud+%F0%9F%9A%80;Code.+Design.+Deploy.+Repeat.+%E2%9C%A8;Problem+Solver+%7C+Open+Source+Enthusiast+%F0%9F%94%A5;Let%27s+build+something+awesome+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=SIH+2025+Grand+Finale+Winner+%F0%9F%A5%87;AI+%26+Computer+Vision+Engineer+%F0%9F%A4%96;Full+Stack+%2B+Flutter+Developer+%F0%9F%9A%80;Team+Lead+%40+Team+Trinetra+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+AI-Powered+Products+%E2%9A%A1;Open+Source+%26+Hackathon+Enthusiast+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![SIH Winner](https://img.shields.io/badge/SIH%202025-Grand%20Finale%20Winner%20%F0%9F%A5%87-FFD700?style=for-the-badge&labelColor=1a1a2e)
+&nbsp;
+![Prize](https://img.shields.io/badge/%E2%82%B91.5%20Lakh-National%20Prize-22c55e?style=for-the-badge&labelColor=1a1a2e)
+&nbsp;
+![Team Lead](https://img.shields.io/badge/Team%20Lead-Team%20Trinetra-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+&nbsp;
+![AI Dev](https://img.shields.io/badge/AI-Engineer-06b6d4?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -26,20 +40,46 @@
 
 ---
 
-## 🧠 The Human Behind The Code
+## 🧠 The Engineer Behind The Code
 
 ```typescript
 const nisarga: Developer = {
-  name      : "Nisarga Lokhande",
-  alias     : "Nikobuddy  🎮",
-  location  : "India  🇮🇳",
-  roles     : ["Full Stack Developer", "App Developer", "Engineering Student"],
-  building  : "Scalable web & mobile solutions — from scratch, always",
-  passion   : "Turning complex real-world problems into elegant digital experiences",
-  openTo    : ["App Development Collabs", "Open Source", "Freelance Projects"],
-  funFact   : "Every project I ship is planned, designed & built entirely by me 💡",
-  contact   : "nisargalokhande@gmail.com",
-  portfolio : "https://nikobuddy.io/nikobuddy",
+  name     : "Nisarga Lokhande",
+  alias    : "Nikobuddy 🎮",
+  location : "Maharashtra, India 🇮🇳",
+
+  roles    : [
+    "Full Stack Developer",
+    "Flutter Developer",
+    "AI Engineer",
+    "Backend Developer",
+    "Team Lead",
+    "Engineering Student",
+    "Hackathon Winner 🥇",
+  ],
+
+  achievements : [
+    "🥇 SIH 2025 Grand Finale Winner",
+    "💰 ₹1.5 Lakh National Prize",
+    "👨‍💻 Team Lead — Team Trinetra",
+    "🏛️  Kumbh Mela Crowd Management Solution",
+    "🚀 Production Apps Serving Real Users",
+  ],
+
+  currentlyBuilding : ["Trinetra", "Allumino", "Projonexa", "Locora", "SPPU Buddy"],
+
+  tech : {
+    frontend : ["React", "Next.js", "Flutter", "TypeScript", "Tailwind CSS"],
+    backend  : ["Node.js", "Express", "Go", "Python"],
+    database : ["MongoDB", "Firebase", "Supabase", "MySQL"],
+    ai       : ["YOLO", "FaceNet", "FAISS", "Gemini API", "RAG Systems"],
+    cloud    : ["GCP", "Firebase", "Vercel", "Render", "Docker", "VPS"],
+  },
+
+  passion : "Building AI-powered products that solve real-world problems.",
+  openTo  : ["Hackathons", "Open Source", "AI Collabs", "Startup Projects"],
+  contact : "nisargalokhande@gmail.com",
+  github  : "https://github.com/nikobuddy",
 };
 ```
 
@@ -47,15 +87,64 @@ const nisarga: Developer = {
 
 ---
 
-## ⚡ What I Build
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-| 🌐 &nbsp;Web Applications | 📱 &nbsp;Mobile Apps | 🔧 &nbsp;Backend & APIs |
-|:---:|:---:|:---:|
-| Responsive React SPAs | Flutter / Kotlin Native | Node.js + Express REST APIs |
-| Progressive Web Apps | Cross-platform Solutions | MongoDB & MySQL Databases |
-| Material UI · styled-components | Dart-powered Interfaces | Firebase & Google Cloud |
+<table>
+  <tr>
+    <td align="center" width="220">
+      <br/>
+      <img src="https://img.shields.io/badge/%F0%9F%A5%87%20SIH%202025-WINNER-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>Smart India Hackathon</b><br/>
+      <sub>Grand Finale · National Level</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="220">
+      <br/>
+      <img src="https://img.shields.io/badge/%F0%9F%92%B0%20%E2%82%B91.5%20LAKH-NATIONAL%20PRIZE-22c55e?style=for-the-badge&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>National Prize Winner</b><br/>
+      <sub>Biggest Hackathon in India</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="220">
+      <br/>
+      <img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20TEAM%20LEAD-TRINETRA-7c3aed?style=for-the-badge&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>Team Trinetra</b><br/>
+      <sub>Led Multi-disciplinary Dev Team</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="220">
+      <br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20KUMBH%20MELA-AI%20SOLUTION-f97316?style=for-the-badge&labelColor=1a1a1a"/>
+      <br/><br/>
+      <b>Crowd Management AI</b><br/>
+      <sub>Real-World Deployed System</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🔥 Currently Building
+
+<div align="center">
+
+| &nbsp; | Project | What It Is | Domain |
+|:---:|:---|:---|:---|
+| 🧠 | **Trinetra** | AI Smart Pilgrimage Ecosystem | AI · Cloud · Mobile |
+| 🎓 | **Allumino** | Alumni Management Platform | Full Stack · Web |
+| 🌍 | **Projonexa** | Student Innovation Ecosystem | Community · Web App |
+| 📍 | **Locora** | Location & Tracking Platform | Flutter · Backend |
+| ⚡ | **SPPU Buddy** | Student Companion App | Flutter · Firebase |
 
 </div>
 
@@ -67,27 +156,33 @@ const nisarga: Developer = {
 
 <div align="center">
 
-**Frontend**
+**⚛️ &nbsp;Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,materialui&theme=dark&perline=6" />
-
-<br/><br/>
-
-**Backend · Database · Cloud**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,gcp&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,typescript,tailwind,vite,html,css,js,sass,materialui&theme=dark&perline=11" />
 
 <br/><br/>
 
-**DevOps · Tools**
+**⚙️ &nbsp;Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,heroku&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,python&theme=dark&perline=8" />
 
 <br/><br/>
 
-**Other Languages**
+**🗄️ &nbsp;Database & BaaS**
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,dart,kotlin&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark&perline=6" />
+
+<br/><br/>
+
+**☁️ &nbsp;Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=gcp,vercel,docker,linux,git,github,vscode&theme=dark&perline=8" />
+
+<br/><br/>
+
+**🔤 &nbsp;Other Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,dart,kotlin&theme=dark&perline=6" />
 
 </div>
 
@@ -95,7 +190,51 @@ const nisarga: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤖 AI & Computer Vision
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00D4FF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/FaceNet-Face%20Recognition-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-4ECDC4?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini%20API-LLM%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Crowd%20Density%20Analysis-Computer%20Vision-7c3aed?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/MobileFaceNet-Edge%20Inference-f97316?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG%20Applications-AI%20Pipeline-22c55e?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+---
+
+## 👨‍💼 Leadership & Impact
+
+<div align="center">
+
+| 🎯 &nbsp;Role | 📌 &nbsp;Impact |
+|:---|:---|
+| **Team Lead · Team Trinetra** | Led full dev lifecycle — architecture, deployment & grand finale pitch |
+| **SIH 2025 Grand Finalist** | Competed nationally, secured ₹1.5L prize for impactful AI solution |
+| **Product Architect** | Designed scalable, real-world deployed systems |
+| **Hackathon Strategist** | Technical direction, team co-ordination & presentation leadership |
+| **CS Engineering Student** | Consistent academic excellence with strong practical delivery |
+
+</div>
+
+<br/>
+
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -119,7 +258,7 @@ const nisarga: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikobuddy&layout=compact&theme=tokyonight&hide_border=true&hide=glsl&langs_count=8&card_width=440"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikobuddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=440"/>
 
 </div>
 
@@ -134,12 +273,12 @@ const nisarga: Developer = {
 <br/>
 
 ---
-
+<!-- 
 ## 🎯 Competitive Programming
 
 <div align="center">
 
-> Consistently maintaining high ratings across top algorithmic platforms
+> High-rated across top algorithmic platforms
 
 <br/>
 
@@ -157,7 +296,7 @@ const nisarga: Developer = {
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
@@ -174,7 +313,7 @@ const nisarga: Developer = {
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/lokhandenisarga">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://nikobuddy.io/nikobuddy">
@@ -189,11 +328,11 @@ const nisarga: Developer = {
 
 <div align="center">
 
-### 💫 Check out my repos & don't forget to leave a ⭐
+### 🚀 Explore my repos and drop a ⭐ if something inspires you!
 
 <br/>
 
-*"Every project I build is crafted from scratch — conceived, designed, and shipped with intent."*
+*"Building AI-powered products that solve real-world problems — from scratch, always."*
 
 *— Nisarga Lokhande &nbsp;·&nbsp; Nikobuddy*
 
