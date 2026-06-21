@@ -341,3 +341,4 @@ const nisarga: Developer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,60:1a0533,100:0d0221&height=140&section=footer&animation=fadeIn"/>
 
 </div>
+
