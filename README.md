@@ -162,7 +162,7 @@ const nisarga: Developer = {
 
 <br/><br/>
 
-**⚙️ &nbsp;Backend & Languages**
+**⚙️ &nbsp;Backend & Languages** 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,python&theme=dark&perline=8" />
 
